@@ -1,0 +1,4 @@
+## APIs Used
+
+- [OpenWeather API](https://openweathermap.org/api) for weather data retrieval.
+- [Unsplash API](https://unsplash.com/developers) for dynamic city images.
